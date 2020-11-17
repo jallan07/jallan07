@@ -13,7 +13,7 @@
 
 ---
 
-## Languages & Tools
+## Languages & Technologies
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1ABC9B)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1ABC9B)
