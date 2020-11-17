@@ -6,7 +6,7 @@
 
 ## I'm a full-stack husband, father, student, and developer
 
-- 🌱 Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
+- <img src="img/uofr.png" width="15px">Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
 - 👯 I’m looking to collaborate with other code-hungry developers
 - 🥅 2021 Goal: Land my first job as a Developer
 - ⚡ Fun fact: I love Nashville Hot chicken
