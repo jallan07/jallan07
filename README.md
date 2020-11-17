@@ -1,6 +1,6 @@
 # Hi there, my name is [Josh Allan][website] <img src="img/wave.gif" width="30px">
 
-[![https://joshallan.dev](img/header.png)](website)
+[![Header](img/header.png)](https://joshallan.dev)
 
 ---
 
