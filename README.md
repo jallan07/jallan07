@@ -1,4 +1,4 @@
-# Hi there, I'm [Josh Allan][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm [Josh Allan][website] <img src="img/wave.gif" width="30px">
 
 [![Website](https://img.shields.io/website?label=joshallan.dev&style=for-the-badge&url=https%3A%2F%2Fjoshallan.dev)](website)
 
