@@ -16,12 +16,19 @@
 ## Languages & Tools
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1ABC9B)
-![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1ABC9B)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1ABC9B)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1ABC9B)
+![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=1ABC9B)
 ![Node](https://img.shields.io/badge/CLI-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1ABC9B)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=1ABC9B)
+![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1ABC9B)
+![Wordpress](https://img.shields.io/badge/Stack-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=1ABC9B)
 ![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=1ABC9B)
+![Github](https://img.shields.io/badge/Stack-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=1ABC9B)
+![Zapier](https://img.shields.io/badge/Integrations-Zapier-informational?style=flat&logo=Zapier&logoColor=white&color=1ABC9B)
+
+<!-- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=1ABC9B)
+![React](https://img.shields.io/badge/Stack-React-informational?style=flat&logo=React&logoColor=white&color=1ABC9B) -->
 
 ---
 
