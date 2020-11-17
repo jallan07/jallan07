@@ -15,13 +15,13 @@
 
 ## Languages & Tools
 
-![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![Node](https://img.shields.io/badge/CLI-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=2bbc8a)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1ABC9B)
+![Bootstrap](https://img.shields.io/badge/Stack-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1ABC9B)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1ABC9B)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1ABC9B)
+![Node](https://img.shields.io/badge/CLI-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1ABC9B)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=1ABC9B)
+![Heroku](https://img.shields.io/badge/Stack-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=1ABC9B)
 
 ---
 
