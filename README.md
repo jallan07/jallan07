@@ -1,6 +1,6 @@
 # Hi there, my name is [Josh Allan][website] <img src="img/wave.gif" width="30px">
 
-[![Website](https://img.shields.io/website?label=joshallan.dev&style=for-the-badge&url=https%3A%2F%2Fjoshallan.dev)](website)
+[![Header](img/header.png "Header")](website)
 
 ---
 
