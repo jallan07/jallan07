@@ -29,7 +29,7 @@
 
 ![Josh Allan's github stats](https://github-readme-stats.vercel.app/api?username=jallan07&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallan07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs]()](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
