@@ -45,4 +45,3 @@
 
 [website]: https://joshallan.dev/
 [linkedin]: https://www.linkedin.com/in/joshuamallan/
-# jallan07
