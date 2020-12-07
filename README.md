@@ -16,20 +16,20 @@
 
 ## Languages & Technologies
 
-![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=1ABC9B)
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=1ABC9B)
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1ABC9B)
-![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jquery&logoColor=white&color=1ABC9B)
-![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=1ABC9B)
-![Node](https://img.shields.io/badge/Tech-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=1ABC9B)
-![Bootstrap](https://img.shields.io/badge/Tech-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=1ABC9B)
-![Wordpress](https://img.shields.io/badge/Tech-Wordpress-informational?style=flat&logo=wordpress&logoColor=white&color=1ABC9B)
-![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=1ABC9B)
-![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=1ABC9B)
-![Zapier](https://img.shields.io/badge/Tech-Zapier-informational?style=flat&logo=Zapier&logoColor=white&color=1ABC9B)
+![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1ABC9B)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B)
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B)
+![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=1ABC9B)
+![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=1ABC9B)
+![Node](https://img.shields.io/badge/Tech-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B)
+![Bootstrap](https://img.shields.io/badge/Tech-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1ABC9B)
+![Wordpress](https://img.shields.io/badge/Tech-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=1ABC9B)
+![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B)
+![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B)
+![Zapier](https://img.shields.io/badge/Tech-Zapier-informational?style=for-the-badge&logo=Zapier&logoColor=white&color=1ABC9B)
 
-<!-- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=1ABC9B)
-![React](https://img.shields.io/badge/Stack-React-informational?style=flat&logo=React&logoColor=white&color=1ABC9B) -->
+<!-- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B)
+![React](https://img.shields.io/badge/Stack-React-informational?style=for-the-badge&logo=React&logoColor=white&color=1ABC9B) -->
 
 ---
 
