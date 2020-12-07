@@ -8,6 +8,7 @@
 
 - <img src="img/uofr.png" width="15px"> Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
 - 👔 2x entreprenuer and business owner
+- 🎥 Lover of all things Star Wars (movies, books, tv, games, etc.)
 - 👯 Looking to collaborate with other code-hungry developers
 - 🥅 2021 Goal: Land my first job as a Software Developer
 - 🍗 Fun fact: I run the @rvagrubs instagram account
