@@ -45,9 +45,10 @@
 
 [<img align="left" alt="joshallan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
 [website]: https://joshallan.dev/
 [linkedin]: https://www.linkedin.com/in/joshuamallan/
-[email]: allan.josh07@gmail.com
+[email]: mailto:allan.josh07@gmail.com
