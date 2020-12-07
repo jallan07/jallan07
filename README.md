@@ -14,6 +14,16 @@
 
 ---
 
+## Let's connect!
+
+[<img align="left" alt="joshallan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+<br />
+
+---
+
 ## Languages & Technologies
 
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1ABC9B&labelColor=001837)
@@ -44,14 +54,6 @@
 ## What's On Rotation
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12484067&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=12484067&redirect=true)
-
----
-
-## Let's Connect
-
-[<img align="left" alt="joshallan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
