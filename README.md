@@ -35,9 +35,9 @@
 
 ## Github Stats
 
-![Josh Allan's github stats](https://github-readme-stats.vercel.app/api?username=jallan07&show_icons=true)
+![Josh Allan's github stats](https://github-readme-stats.vercel.app/api?username=jallan07&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallan07)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallan07&langs_count=10&card_width=495&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
