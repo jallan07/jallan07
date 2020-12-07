@@ -50,3 +50,4 @@
 
 [website]: https://joshallan.dev/
 [linkedin]: https://www.linkedin.com/in/joshuamallan/
+[email]: allan.josh07@gmail.com
