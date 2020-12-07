@@ -4,7 +4,7 @@
 
 ---
 
-## I'm a full-stack husband, father, student, and developer
+## I'm a full-stack husband, father, student, and developer.
 
 - <img src="img/uofr.png" width="15px"> Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
 - 👔 2x entreprenuer and business owner
@@ -43,7 +43,7 @@
 
 ---
 
-## Github Stats
+## GitHub Stats
 
 ![Josh Allan's github stats](https://github-readme-stats.vercel.app/api?username=jallan07&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
 
