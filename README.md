@@ -1,4 +1,4 @@
-# Hi there, my name is [Josh Allan][website] <img src="img/wave.gif" width="30px">, and I write beautiful code.
+# Hi there, my name is [Josh Allan][website] <img src="img/wave.gif" width="30px">.
 
 [![Header](img/header.png)](https://joshallan.dev)
 
