@@ -6,12 +6,12 @@
 
 ## I'm a full-stack husband, father, student, and developer.
 
-- <img src="img/uofr.png" width="15px"> Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
-- 👔 2x entreprenuer and business owner
-- 🎥 Lover of all things Star Wars (movies, books, tv, games, etc.)
-- 👯 Looking to collaborate with other code-hungry developers
-- 🥅 2021 Goal: Land my first job as a Software Developer
-- 🍗 Fun fact: I run the @rvagrubs instagram account
+- <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
+- 👔 &nbsp; &nbsp; 2x entreprenuer and business owner
+- 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
+- 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
+- 🥅 &nbsp; &nbsp; 2021 Goal: Land my first job as a Software Developer
+- 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
 
 ### Currently on rotation:
 
@@ -21,20 +21,20 @@
 
 ## Languages & Technologies
 
+![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1ABC9B&labelColor=001837)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837)
 ![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=1ABC9B&labelColor=001837)
-![MySQL](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=1ABC9B&labelColor=001837)
+![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837)
+![MySQL](https://img.shields.io/badge/Data-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Node](https://img.shields.io/badge/Tech-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Bootstrap](https://img.shields.io/badge/Tech-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Wordpress](https://img.shields.io/badge/Tech-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=1ABC9B&labelColor=001837)
+![Shopify](https://img.shields.io/badge/Tech-Shopify-informational?style=for-the-badge&logo=Shopify&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Zapier](https://img.shields.io/badge/Tech-Zapier-informational?style=for-the-badge&logo=Zapier&logoColor=white&color=1ABC9B&labelColor=001837)
-
-<!-- ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B)
-![React](https://img.shields.io/badge/Stack-React-informational?style=for-the-badge&logo=React&logoColor=white&color=1ABC9B) -->
 
 ---
 
