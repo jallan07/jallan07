@@ -6,16 +6,12 @@
 
 ## I'm a full-stack husband, father, student, and developer.
 
-- <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; Currently attending the University of Richmond's Coding Bootcamp (Full-stack, MERN)
+- <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp (Full-stack, MERN) alum
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner
-- 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
-- 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🥅 &nbsp; &nbsp; 2021 Goal: Land my first job as a Software Developer
+- 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
+- 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
 - 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
-
-### Currently on rotation:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12484067&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12484067&redirect=true)
 
 ---
 
@@ -38,6 +34,12 @@
 
 ---
 
+## Summary
+
+Innovative Frontend Engineer with expertise in both web design and digital marketing. Offering 10+ years of professional marketing experience, with a fresh Full-Stack Web Development certification (MERN stack) added to my belt. Quick to learn and master new technologies, and able to work in both team- and self-directed environments.
+
+---
+
 ## GitHub Stats
 
 ![Josh Allan's github stats](https://github-readme-stats.vercel.app/api?username=jallan07&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
@@ -46,11 +48,19 @@
 
 ---
 
+### Currently on rotation:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12484067&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12484067&redirect=true)
+
+---
+
 ## Let's connect!
 
 [<img align="left" alt="joshallan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh Allan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+
+<br />
 
 <br />
 
