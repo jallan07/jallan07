@@ -18,19 +18,27 @@
 ## Languages & Technologies
 
 ![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837)
+![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837)
+![Express](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&logoColor=white&color=1ABC9B&labelColor=001837)
+![Node](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B&labelColor=001837)
+![Redux](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1ABC9B&labelColor=001837)
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837)
+![JSON](https://img.shields.io/badge/Code-json-informational?style=for-the-badge&logo=json&logoColor=white&color=1ABC9B&labelColor=001837)
+![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1ABC9B&labelColor=001837)
+![JSON Web Tokens](https://img.shields.io/badge/Code-json_web_tokens-informational?style=for-the-badge&logo=json-web-tokens&logoColor=white&color=1ABC9B&labelColor=001837)
+![Firebase](https://img.shields.io/badge/Data-Firebase-informational?style=for-the-badge&logo=Firebase&logoColor=white&color=1ABC9B&labelColor=001837)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837)
 ![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=1ABC9B&labelColor=001837)
-![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837)
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837)
 ![MySQL](https://img.shields.io/badge/Data-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=1ABC9B&labelColor=001837)
-![Node](https://img.shields.io/badge/Tech-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B&labelColor=001837)
-![Bootstrap](https://img.shields.io/badge/Tech-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1ABC9B&labelColor=001837)
+![npm](https://img.shields.io/badge/Tech-npm.js-informational?style=for-the-badge&logo=npm.js&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Wordpress](https://img.shields.io/badge/Tech-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Shopify](https://img.shields.io/badge/Tech-Shopify-informational?style=for-the-badge&logo=Shopify&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837)
+![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837)
 ![Zapier](https://img.shields.io/badge/Tech-Zapier-informational?style=for-the-badge&logo=Zapier&logoColor=white&color=1ABC9B&labelColor=001837)
+![Adobe Creative Cloud](https://img.shields.io/badge/Tech-adobe_creative_cloud-informational?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white&color=1ABC9B&labelColor=001837)
 
 ---
 
