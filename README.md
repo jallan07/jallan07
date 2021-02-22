@@ -8,7 +8,7 @@
 
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp (Full-stack, MERN) alum
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner
-- 🥅 &nbsp; &nbsp; 2021 Goal: Land my first job as a Software Developer
+- 🥅 &nbsp; &nbsp; 2021 Goal: Land my first job as a Frontend Web Developer
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
 - 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
@@ -36,11 +36,11 @@
 
 ## Summary
 
-Innovative Frontend Engineer with expertise in both web design and digital marketing. Offering 10+ years of professional marketing experience, with a fresh Full-Stack Web Development certification (MERN stack) added to my belt. Quick to learn and master new technologies, and able to work in both team- and self-directed environments.
+Innovative Frontend Developer with expertise in both web design and digital marketing. Offering 10+ years of professional marketing experience, with a fresh Full-Stack Web Development certification (MERN stack) added to my belt. Quick to learn and master new technologies, and able to work in both team- and self-directed environments.
 
 #### View My Resume
 
-![Resume QR Code](img/resume-qr-150.png)
+![Resume QR Code](img/resume-qr-200.png)
 
 ---
 
