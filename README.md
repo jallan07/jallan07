@@ -101,6 +101,8 @@ Innovative Frontend Developer with expertise in both web design and digital mark
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-joshuamallan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=1ABC9B&labelColor=001837)](https://www.linkedin.com/in/joshuamallan/)
 
+[![Resume](https://img.shields.io/badge/Resume-joshuamallan-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=1ABC9B&labelColor=001837)](https://drive.google.com/file/d/1S4_u5BLspZWVqAkhJdZBl2cTXRRApXUr/view?usp=sharing)
+
 [![Portfolio](https://img.shields.io/badge/Email-allan.josh07@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=1ABC9B&labelColor=001837)](mailto:allan.josh07@gmail.com)
 
 [![Spotify](https://img.shields.io/badge/spotify-Josh_Allan-informational?style=for-the-badge&logo=spotify&logoColor=white&color=1ABC9B&labelColor=001837)](https://open.spotify.com/user/12484067?si=xhMwjlhjTlKNUCmltYAKWA)
