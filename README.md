@@ -111,6 +111,6 @@ Innovative Frontend Developer with expertise in both web design and digital mark
 
 <br />
 
-<!-- [website]: https://joshallan.dev/
+[website]: https://joshallan.dev/
 [linkedin]: https://www.linkedin.com/in/joshuamallan/
-[email]: mailto:allan.josh07@gmail.com -->
+[email]: mailto:allan.josh07@gmail.com
