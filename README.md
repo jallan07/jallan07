@@ -7,7 +7,7 @@
 ## I'm a full-stack husband, father, student, and developer.
 
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp (Full-stack, MERN) alum
-- 👔 &nbsp; &nbsp; 2x entreprenuer and business owner
+- 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently employed at Paymerang
 - 🥅 &nbsp; &nbsp; 2022 Goal: Mentor a new hire dev at Paymerang
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
