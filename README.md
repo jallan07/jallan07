@@ -75,10 +75,6 @@
 
 Innovative Frontend Developer with expertise in both web design and digital marketing. Offering 10+ years of professional marketing experience, with a fresh Full-Stack Web Development certification (MERN stack) added to my belt. Quick to learn and master new technologies, and able to work in both team- and self-directed environments.
 
-#### View My Resume
-
-![Resume QR Code](img/resume-qr-200.png)
-
 ---
 
 ## GitHub Stats
