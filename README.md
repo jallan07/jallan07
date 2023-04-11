@@ -8,7 +8,7 @@
 
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp (Full-stack, MERN) alum
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently employed at Paymerang
-- 🥅 &nbsp; &nbsp; 2022 Goal: Mentor a new hire dev at Paymerang
+- 🥅 &nbsp; &nbsp; 2023 Goal: Get promoted to Senior Software Developer at Paymerang
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
 - 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
