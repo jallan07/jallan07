@@ -72,7 +72,9 @@
 
 ## Summary
 
-Innovative Frontend Developer with expertise in both web design and digital marketing. Offering 10+ years of professional marketing experience, with a fresh Full-Stack Web Development certification (MERN stack) added to my belt. Quick to learn and master new technologies, and able to work in both team- and self-directed environments.
+As a full stack software developer, I work in a fast-paced environment where I develop complex web applications using a wide range of cutting-edge technologies. My primary focus is to build responsive user interfaces using React (JavaScript/Typescript), while also designing and implementing scalable back-end systems using Hasura (GraphQL & SQL).
+
+In this role, I am responsible for the full software development lifecycle, from design and development to creating unit tests and deployment instructions. I collaborate closely with cross-functional teams, including product managers, designers, and other engineers, to ensure that my work aligns with the company's business goals and user needs.
 
 ---
 
