@@ -1,12 +1,11 @@
 # Hi there, my name is [Josh Allan][website] <img src="img/wave.gif" width="30px">.
 
-[![Header](img/header.png)](https://joshallan.dev)
-
 ---
 
-## I'm a full-stack husband, father, student, and developer.
+## I'm a full-stack husband, father, and developer.
 
-- <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp (Full-stack, MERN) alum
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="15px"> Brigham Young University alum (Bachelors of Arts in Communications)
+- <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp alum (Full-stack, MERN)
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently employed at Paymerang
 - 🥅 &nbsp; &nbsp; 2023 Goal: Get promoted to Senior Software Developer at Paymerang
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
