@@ -14,6 +14,14 @@
 
 ---
 
+## Summary
+
+As a full stack software developer, I work in a fast-paced environment where I develop complex web applications using a wide range of cutting-edge technologies. My primary focus is to build responsive user interfaces using React (JavaScript/Typescript), while also designing and implementing scalable back-end systems using Hasura (GraphQL & SQL).
+
+In this role, I am responsible for the full software development lifecycle, from design and development to creating unit tests and deployment instructions. I collaborate closely with cross-functional teams, including product managers, designers, and other engineers, to ensure that my work aligns with the company's business goals and user needs.
+
+---
+
 ## Technology
 
 #### Stack
@@ -67,14 +75,6 @@
 ![macOs](https://img.shields.io/badge/Tech-macOS-informational?style=for-the-badge&logo=macOS&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Mailchimp](https://img.shields.io/badge/Tech-Mailchimp-informational?style=for-the-badge&logo=Mailchimp&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Microsoft Office](https://img.shields.io/badge/Tech-Microsoft_office-informational?style=for-the-badge&logo=microsoft-office&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
----
-
-## Summary
-
-As a full stack software developer, I work in a fast-paced environment where I develop complex web applications using a wide range of cutting-edge technologies. My primary focus is to build responsive user interfaces using React (JavaScript/Typescript), while also designing and implementing scalable back-end systems using Hasura (GraphQL & SQL).
-
-In this role, I am responsible for the full software development lifecycle, from design and development to creating unit tests and deployment instructions. I collaborate closely with cross-functional teams, including product managers, designers, and other engineers, to ensure that my work aligns with the company's business goals and user needs.
 
 ---
 
