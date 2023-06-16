@@ -4,7 +4,7 @@
 
 ## I'm a full-stack husband, father, and developer.
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="15px"> Brigham Young University alum (Bachelors of Arts in Communications)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="15px"> &nbsp; &nbsp; Brigham Young University alum (Bachelors of Arts in Communications)
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp alum (Full-stack, MERN)
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently employed at Paymerang
 - 🥅 &nbsp; &nbsp; 2023 Goal: Get promoted to Senior Software Developer at Paymerang
