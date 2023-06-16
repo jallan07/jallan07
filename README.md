@@ -1,4 +1,4 @@
-# Hi there, my name is [Josh Allan][website] <img src="img/wave.gif" width="30px">.
+# Hi there, my name is Josh Allan <img src="img/wave.gif" width="30px">.
 
 ---
 
@@ -91,8 +91,6 @@ Innovative Frontend Developer with expertise in both web design and digital mark
 ---
 
 ## Let's connect!
-
-[![Portfolio](https://img.shields.io/badge/portfolio-joshallan.dev-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837)](https://joshallan.dev/)
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-joshuamallan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=1ABC9B&labelColor=001837)](https://www.linkedin.com/in/joshuamallan/)
 
