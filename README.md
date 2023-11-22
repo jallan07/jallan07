@@ -7,7 +7,7 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="20px"> &nbsp; &nbsp; Brigham Young University alum (Bachelors of Arts in Communications)
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp alum (Full-stack, MERN)
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently looking for new opportunities
-- 🥅 &nbsp; &nbsp; End of Year Goal: Land a great dev job where I can use my skills and passion for creative solutions, and rock with a forward-thinking team
+- 🥅 &nbsp; &nbsp; End of Year Goal: Land a great dev job where I can rock with a forward-thinking team
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
 - 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
