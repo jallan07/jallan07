@@ -6,8 +6,8 @@
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="20px"> &nbsp; &nbsp; Brigham Young University alum (Bachelors of Arts in Communications)
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp alum (Full-stack, MERN)
-- 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently employed at Paymerang
-- 🥅 &nbsp; &nbsp; 2023 Goal: Get promoted to Senior Software Developer at Paymerang
+- 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently looking for new opportunities
+- 🥅 &nbsp; &nbsp; End of Year Goal: Land a great dev job where I can use my skills and passion for creative solutions, and rock with a forward-thinking team
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
 - 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
@@ -16,9 +16,9 @@
 
 ## Summary
 
-As a full stack software developer, I work in a fast-paced environment where I develop complex web applications using a wide range of cutting-edge technologies. My primary focus is to build responsive user interfaces using React (JavaScript/Typescript), while also designing and implementing scalable back-end systems using Hasura (GraphQL & SQL).
+🚀 Passionate Full Stack Web Developer with 3 years of coding experience, specializing in JavaScript, API development, React, Remix.js, TypeScript, SQL, Hasura, GraphQL, and RESTful APIs. Adept at navigating complex web development challenges, I bring a unique blend of technical expertise and creative problem-solving. My journey into coding follows a successful 10-year career in marketing, where I focused on branding and digital marketing strategies. 
 
-In this role, I am responsible for the full software development lifecycle, from design and development to creating unit tests and deployment instructions. I collaborate closely with cross-functional teams, including product managers, designers, and other engineers, to ensure that my work aligns with the company's business goals and user needs.
+This dual background equips me with a holistic understanding of user-driven development, enabling me to seamlessly translate user needs into efficient and innovative code. Actively seeking new opportunities post a recent career transition, I am excited to contribute my diverse skill set to a forward-thinking team. Let's connect to explore how my decade-long marketing experience and three years in development can bring value to your projects.
 
 ---
 
