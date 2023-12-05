@@ -1,11 +1,14 @@
 # Hi there, my name is Josh Allan <img src="img/wave.gif" width="30px">.
 
+![Background](https://github.com/jallan07/jallan07.github.io/blob/main/public/images/index-bg.jpg?raw=true&height=50%)
+
 ---
+
 
 ## I'm a full-stack husband, father, and developer.
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="21px"> &nbsp;  Brigham Young University alum (Bachelors of Arts in Communications)
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp alum (Full-stack, MERN)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="21px"> &nbsp;  Brigham Young University alum (Bachelors of Arts in Communications)
 - 👔 &nbsp; &nbsp; 2x entreprenuer and business owner, currently looking for new opportunities
 - 🥅 &nbsp; &nbsp; End of Year Goal: Land a great dev job where I can rock with a forward-thinking team
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
