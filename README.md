@@ -22,60 +22,58 @@ This dual background equips me with a holistic understanding of user-driven deve
 
 ---
 
-## Technology
+## Tech Stack
 
-#### Stack
 
-![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Express](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Node](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+#### Languages 
+![Javascript](https://img.shields.io/badge/Javascript-Language-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-Language-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![CSS](https://img.shields.io/badge/CSS-Language-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![HTML](https://img.shields.io/badge/HTML-Language-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![SQL](https://img.shields.io/badge/SQL-Language-informational?style=for-the-badge&logo=sqlite&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-#### Languages
+#### Auth
+![Auth0](https://img.shields.io/badge/Auth0-Authentication-informational?style=for-the-badge&logo=Auth0&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-Authorization-informational?style=for-the-badge&logo=jsonwebtokens&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-![Javascript](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Typescript](https://img.shields.io/badge/Code-TypeScript-informational?style=for-the-badge&logo=TypeScript&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 #### Libraries & Frameworks
+![React](https://img.shields.io/badge/React-Library-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Remix](https://img.shields.io/badge/Remix-Framework-informational?style=for-the-badge&logo=remix&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Express](https://img.shields.io/badge/express-Framework-informational?style=for-the-badge&logo=express&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Node](https://img.shields.io/badge/Node.js-runtime-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-Data-informational?style=for-the-badge&logo=GraphQL&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Hasura](https://img.shields.io/badge/Hasura-API_Platform-informational?style=for-the-badge&logo=Hasura&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Library-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-![Bootstrap](https://img.shields.io/badge/Code-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Express](https://img.shields.io/badge/Code-express-informational?style=for-the-badge&logo=express&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![jQuery](https://img.shields.io/badge/Code-jQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![React](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Redux](https://img.shields.io/badge/Code-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Node](https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![npm](https://img.shields.io/badge/Tech-npm.js-informational?style=for-the-badge&logo=npm.js&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+#### Cloud Services
+![AWS](https://img.shields.io/badge/AWS-Cloud_Services-informational?style=for-the-badge&logo=AmazonAWS&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-Serverless-informational?style=for-the-badge&logo=AWSLambda&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![AWS S3](https://img.shields.io/badge/Amazon_S3-Storage-informational?style=for-the-badge&logo=AmazonS3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![AWS CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-Monitoring-informational?style=for-the-badge&logo=AmazonCloudWatch&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-Cloud_Services-informational?style=for-the-badge&logo=Firebase&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+
 
 #### Data
+![AWS DynamoDB](https://img.shields.io/badge/AWS_DynamoDB-nonrelational_database-informational?style=for-the-badge&logo=AmazonDynamoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-NonRelational_Database-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-Relational_Database-informational?style=for-the-badge&logo=mysql&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Postgresql](https://img.shields.io/badge/Postgresql-Relational_Database-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![JSON](https://img.shields.io/badge/json-Structure-informational?style=for-the-badge&logo=json&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-![Firebase](https://img.shields.io/badge/Data-Firebase-informational?style=for-the-badge&logo=Firebase&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![JSON](https://img.shields.io/badge/Code-json-informational?style=for-the-badge&logo=json&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![JSON Web Tokens](https://img.shields.io/badge/Code-json_web_tokens-informational?style=for-the-badge&logo=json-web-tokens&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![MySQL](https://img.shields.io/badge/Data-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-#### Version Control
+#### DevOps & Version Control
 
-![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Git](https://img.shields.io/badge/Git-DVCS-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Azure](https://img.shields.io/badge/Azure-DevOps-informational?style=for-the-badge&logo=Azuredevops&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Github](https://img.shields.io/badge/GitHub-DevOps-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 #### Platforms
 
-![Wordpress](https://img.shields.io/badge/Tech-Wordpress-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Shopify](https://img.shields.io/badge/Tech-Shopify-informational?style=for-the-badge&logo=Shopify&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Zapier](https://img.shields.io/badge/Tech-Zapier-informational?style=for-the-badge&logo=Zapier&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Wordpress](https://img.shields.io/badge/Wordpress-Platform-informational?style=for-the-badge&logo=wordpress&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Shopify](https://img.shields.io/badge/Shopify-Platform-informational?style=for-the-badge&logo=Shopify&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Zapier](https://img.shields.io/badge/Zapier-Integrations-informational?style=for-the-badge&logo=Zapier&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-#### General
-
-![Adobe Creative Cloud](https://img.shields.io/badge/Tech-adobe_creative_cloud-informational?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Apple](https://img.shields.io/badge/Tech-apple-informational?style=for-the-badge&logo=apple&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Google Drive](https://img.shields.io/badge/Tech-Google_Drive-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![macOs](https://img.shields.io/badge/Tech-macOS-informational?style=for-the-badge&logo=macOS&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Mailchimp](https://img.shields.io/badge/Tech-Mailchimp-informational?style=for-the-badge&logo=Mailchimp&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Microsoft Office](https://img.shields.io/badge/Tech-Microsoft_office-informational?style=for-the-badge&logo=microsoft-office&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ---
 
