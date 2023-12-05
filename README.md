@@ -1,6 +1,6 @@
 # Hi there, my name is Josh Allan <img src="img/wave.gif" width="30px">.
 
-![Background](./img/header.png)
+<a href="https://github.com/jallan07?tab=repositories" target="_blank">![Background](./img/header.png)</a>
 
 ---
 
