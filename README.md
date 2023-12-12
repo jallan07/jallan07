@@ -98,7 +98,7 @@ This dual background equips me with a holistic understanding of user-driven deve
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-joshuamallan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=1ABC9B&labelColor=001837)](https://www.linkedin.com/in/joshuamallan/)
 
-[![Resume](https://img.shields.io/badge/Resume-joshuamallan-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=1ABC9B&labelColor=001837)](https://drive.google.com/file/d/1S4_u5BLspZWVqAkhJdZBl2cTXRRApXUr/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-joshuamallan-informational?style=for-the-badge&logo=google-drive&logoColor=white&color=1ABC9B&labelColor=001837)](https://docs.google.com/document/d/1b1f5AFvZVi4vDaUdG57cSVRGGX1t8cjjFufEBvwppQ0/edit?usp=sharing)
 
 [![Portfolio](https://img.shields.io/badge/Email-allan.josh07@gmail.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=1ABC9B&labelColor=001837)](mailto:allan.josh07@gmail.com)
 
