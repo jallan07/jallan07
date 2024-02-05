@@ -9,7 +9,7 @@
 
 - <img src="img/uofr.png" width="15px"> &nbsp; &nbsp; University of Richmond Coding Bootcamp alum (Full-stack, MERN)
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Brigham_Young_University_medallion.svg/1200px-Brigham_Young_University_medallion.svg.png" width="21px"> &nbsp;  Brigham Young University alum (Bachelors of Arts in Communications)
-- 👔 &nbsp; &nbsp; 3x entreprenuer and business owner with WE ARE THE ALLANS, Moniker Branding, and Roxberry Juice Co.
+- 👔 &nbsp; &nbsp; 3x entreprenuer with WE ARE THE ALLANS, Moniker Branding, and Roxberry Juice Co.
 - 🥅 &nbsp; &nbsp; 2024 Goal: Build enough contract work to not have to return to the corporate world
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
