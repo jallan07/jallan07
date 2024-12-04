@@ -26,20 +26,6 @@ This dual background equips me with a holistic understanding of user-driven deve
 
 ---
 
-## GitHub Stats
-
-![Josh Allan's github stats](https://github-readme-stats.vercel.app/api?username=jallan07&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jallan07&langs_count=10&card_width=495&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Currently on rotation:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12484067&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12484067&redirect=true)
-
----
-
 ## Let's connect!
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-joshuamallan-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=1ABC9B&labelColor=001837)](https://www.linkedin.com/in/joshuamallan/)
