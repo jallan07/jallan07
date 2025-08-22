@@ -14,7 +14,7 @@
 - 🥅 &nbsp; &nbsp; 2026 Goal: Build up RVAGrubs into a positive revenue stream
 - 👯 &nbsp; &nbsp; Looking to collaborate with other code-hungry developers
 - 🎥 &nbsp; &nbsp; Lover of all things Star Wars (movies, books, tv, games, etc.)
-- 🍗 &nbsp; &nbsp; Fun fact: I run the @rvagrubs instagram account
+- 🍗 &nbsp; &nbsp; Fun fact: I run @rvagrubs (~17k followers on instagram and tiktok)
 
 ---
 
